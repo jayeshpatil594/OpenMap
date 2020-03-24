@@ -41,7 +41,7 @@ var styleFunction = function(feature, resolution) {
 
 var olview = new ol.View({
     center: ol.proj.fromLonLat([78.00,22.00]),
-    zoom: 4,
+    zoom: 2,
 });
 
 var geojson_layer = new ol.layer.Vector({
