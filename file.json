@@ -91,6 +91,197 @@
                 "description": "COVID-19 Cases:908 (Populaion: 221 million)"
             }
         },
+        {
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.1025,
+                    28.7041
+                ]
+            },
+            "properties": {
+                "name": "Delhi",
+                "description": "COVID-19 Cases:30 (Population: 20 million)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.552979,
+                    19.601194
+                ]
+            },
+            "properties": {
+                "name": "Maharashtra",
+                "description": "COVID-19 Cases:101 (Populaion: 124 million)"
+            }
+        },
+      {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.271080,
+                    10.850516
+                ]
+            },
+            "properties": {
+                "name": "Kerala",
+                "description": "COVID-19 Cases:95 (Populaion: 35 million)"
+            }
+        },
+      {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.713890,
+                    15.317277
+                ]
+            },
+            "properties": {
+                "name": "Karnataka",
+                "description": "COVID-19 Cases:38 (Populaion: 67 million)"
+            }
+        },
+      {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.826660,
+                    28.207609
+                ]
+            },
+            "properties": {
+                "name": "Uttar Pradesh",
+                "description": "COVID-19 Cases:36 (Populaion: 237 million)"
+            }
+        },
+       {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.10,
+                    33.40
+                ]
+            },
+            "properties": {
+                "name": "Pakistan",
+                "description": "COVID-19 Cases:908 (Populaion: 221 million)"
+            }
+        },
+      {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56,
+                    41.87
+                ]
+            },
+            "properties": {
+                "name": "Italy",
+                "description": "COVID-19 Cases:63,900 (Populaion: 60 million)"
+            }
+        },
+      {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.1954,
+                    35.8617
+                ]
+            },
+            "properties": {
+                "name": "China",
+                "description": "COVID-19 Cases:81,171 (Populaion: 1439 million)"
+            }
+        },
+      {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7492,
+                    40.4637
+                ]
+            },
+            "properties": {
+                "name": "Spain",
+                "description": "COVID-19 Cases:39673 (Populaion: 80 million)"
+            }
+        },
+      {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25,
+                    52.30
+                ]
+            },
+            "properties": {
+                "name": "Germany",
+                "description": "COVID-19 Cases:30150 (Populaion: 83 million)"
+            }
+        },
+      {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.20,
+                    48.5037
+                ]
+            },
+            "properties": {
+                "name": "France",
+                "description": "COVID-19 Cases:19856 (Populaion: 66 million)"
+            }
+        },
+      {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.30,
+                    35.4437
+                ]
+            },
+            "properties": {
+                "name": "Iran",
+                "description": "COVID-19 Cases:24811 (Populaion: 84 million)"
+            }
+        },
+      {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.35,
+                    55.45
+                ]
+            },
+            "properties": {
+                "name": "Russia",
+                "description": "COVID-19 Cases:444 (Populaion: 145 million)"
+            }
+        },
       {
             "type": "Feature",
             "geometry": {
