@@ -133,6 +133,20 @@
                 "description": "COVID-19 Cases:81,171 (Populaion: 1439 million)"
             }
         },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.08,
+                    -35.15
+                ]
+            },
+            "properties": {
+                "name": "Austrailia",
+                "description": "COVID-19 Cases:2146 (Populaion: 26 million)"
+            }
+        },
       {
             "type": "Feature",
             "geometry": {
