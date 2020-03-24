@@ -77,7 +77,7 @@
                 "description": "COVID-19 Cases:36 (Populaion: 237 million)"
             }
         },
-        {
+       {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
