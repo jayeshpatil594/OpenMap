@@ -102,12 +102,12 @@ map.on('click', function(evt){
         console.info(feature.getProperties());
     }
 });
-/*map.on('pointermove', function(e) {
+map.on('pointermove', function(e) {
     if (e.dragging) return;
        
     var pixel = map.getEventPixel(e.originalEvent);
     var hit = map.hasFeatureAtPixel(pixel);
     
     map.getTarget().style.cursor = hit ? 'pointer' : '';
-});*/
+});
 
